@@ -3,7 +3,7 @@
 # Recipe:: default
 #
 # Copyright:: 2017, The Authors, All Rights Reserved.
-pacakge 'apache' do
+package 'apache' do
 package_name 'httpd'
 action :install
 end
